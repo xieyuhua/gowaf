@@ -1,0 +1,19 @@
+# github.com/aymerick/douceur v0.2.0
+## explicit
+github.com/aymerick/douceur/css
+github.com/aymerick/douceur/parser
+# github.com/gorilla/css v1.0.0
+## explicit
+github.com/gorilla/css/scanner
+# github.com/levidurfee/gowafp v0.2.0
+## explicit
+# github.com/microcosm-cc/bluemonday v1.0.26
+## explicit; go 1.21
+github.com/microcosm-cc/bluemonday
+github.com/microcosm-cc/bluemonday/css
+# github.com/tomasen/fcgi_client v0.0.0-20180423082037-2bb3d819fd19
+## explicit
+# golang.org/x/net v0.17.0
+## explicit; go 1.17
+golang.org/x/net/html
+golang.org/x/net/html/atom
